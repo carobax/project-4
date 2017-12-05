@@ -1,0 +1,25 @@
+[16-Nov-2017 12:11:46 America/New_York] PHP Parse error:  syntax error, unexpected '$assoc' (T_VARIABLE) in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:13:27 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:13:29 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:13:46 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:15:43 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:15:44 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:16:13 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:18:23 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:18:37 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:18:42 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:19:01 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:19:02 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:19:59 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:20:01 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:21:10 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 37
+[16-Nov-2017 12:33:08 America/New_York] PHP Parse error:  syntax error, unexpected '$userArray' (T_VARIABLE), expecting ',' or ';' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 41
+[16-Nov-2017 12:37:51 America/New_York] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ',' or ';' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 42
+[19-Nov-2017 16:25:39 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 65
+[19-Nov-2017 16:28:00 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 50
+[19-Nov-2017 16:50:58 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 50
+[19-Nov-2017 16:51:00 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 50
+[21-Nov-2017 11:00:02 America/New_York] PHP Parse error:  syntax error, unexpected '$userArray' (T_VARIABLE), expecting ',' or ';' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 68
+[04-Dec-2017 19:02:22 America/New_York] PHP Parse error:  syntax error, unexpected 'Open' (T_STRING), expecting ',' or ';' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 65
+[04-Dec-2017 19:05:47 America/New_York] PHP Parse error:  syntax error, unexpected 'Open' (T_STRING), expecting ',' or ';' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 66
+[04-Dec-2017 19:06:15 America/New_York] PHP Parse error:  syntax error, unexpected 'Open' (T_STRING), expecting ',' or ';' in /home/caronsha/public_html/mj487/apps/twitter/index.php on line 66

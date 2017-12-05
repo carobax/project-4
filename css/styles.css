@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+slider-background{
+  background-color: blue;
+}
+
+iframe {
+  width: 500px;
+  height: 500px;
+  border: 1px solid gray;
+}
+@media screen and (max-width: 480px) {
+    iframe {
+      width: 300px;
+      height: 300px;
+    }
+}
+
+.flickr, hr{
+  border-top: 1px solid #ffffff;
+}
+
+.flickr .flickr-img:hover{
+  opacity: .5;
+}
+
+.flickr, .flickr-img{
+  /*opacity: 1;*/
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+  width: 340px;
+  height: 240px;
+    margin: 7px;
+  /*overflow: hidden;*/
+  display: inline-block;
+}
+@media screen and (max-width: 480px) {
+    .flickr, .flickr-img {
+      width: 150px;
+      height: 80px;
+      margin: 5px;
+    }
+}
+
+a:link {
+    color: #CF5B5A;
+}
+
+/* visited link */
+a:visited {
+    color: #CF5B5A;
+}
+
+#map {
+ height: 400px;
+ width: 100%;
+}
+
+.button {
+    background-color: #CF5B5A;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 155px;
+    cursor: pointer;
+}
+@media screen and (max-width: 480px) {
+    .button {
+      margin-left: 50px;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.text-center {
+  text-align: center;
+}
